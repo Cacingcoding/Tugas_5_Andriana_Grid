@@ -32,7 +32,7 @@ a {
     background-color: rgb(165, 7, 7);
     width: 0; 
     height: 80px; 
-    float: left;
+    display: inline-flex;
     margin: 20px auto;
 }
 
